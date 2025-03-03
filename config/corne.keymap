@@ -52,5 +52,13 @@
                              &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp RALT
                         >;
                 };
+
+                 camada3 {
+                    status = "reserved";
+                };
+                
+                camada4 {
+                    status = "reserved";
+                };
         };
 };
